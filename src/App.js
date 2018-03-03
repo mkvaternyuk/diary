@@ -3,10 +3,10 @@ import logo from './logo.svg';
 import './App.css';
 
 
-class Day extends Component {
+class Week extends Component {
     render() {
         return (
-          <div>Day Box</div>
+          <div></div>
         );
     }
 }
